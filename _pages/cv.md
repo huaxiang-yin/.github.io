@@ -11,10 +11,27 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Data Science and Big Data Technology, Najing University of Information Science and Technology, 2019-2023
+* M.S. in Computer Science, Tongji University, 2023-2026 (expected)
 
+Skills
+======
+* Pytorch
+* Computer vision and Deep learning
+
+Awards
+======
+* National Scholarship for Undergraduate Students 2022
+* Undergraduate Principal Scholarship (Top 0.2%) 2022
+* Undergraduate three good student pacesetters (Top 1%) 2020 2021 2022
+
+Publications
+======
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
+<!--
 Work experience
 ======
 * Summer 2015: Research Assistant
@@ -57,3 +74,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+-->
