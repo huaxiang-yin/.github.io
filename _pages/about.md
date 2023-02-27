@@ -10,7 +10,7 @@ redirect_from:
 
 Hi! I’m a fourth-year DS undergrad at [NUIST](https://en.nuist.edu.cn/main.htm). And I will be a CS master of [Tongji University](https://en.tongji.edu.cn/p/#/) this year.
 
-My research interests mainly focus on deap learning and computer vision. I am always open to new topics.
+My research interests mainly focus on deep learning and computer vision. I am always open to new topics.
 
 Here is my [Curriculum Vitae](http://yuqi-miao.github.io/files/CN-CV.pdf) in Chinese.
 
