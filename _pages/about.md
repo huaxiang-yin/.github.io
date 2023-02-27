@@ -12,7 +12,7 @@ Hi! I’m a fourth-year DS undergrad at [NUIST](https://en.nuist.edu.cn/main.htm
 
 My research interests mainly focus on deap learning and computer vision. I am always open to new topics.
 
-Here is my [Curriculum Vitae](http://yuqi-miao.github.io/files/CN-CV.pdf).
+Here is my [Curriculum Vitae](http://yuqi-miao.github.io/files/CN-CV.pdf) in Chinese.
 
 <!--哈哈我是注释，不会在浏览器中显示。
 A data-driven personal website
