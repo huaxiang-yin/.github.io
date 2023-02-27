@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I’m a fourth-year DS undergrad at [NUIST](https://en.nuist.edu.cn/main.htm). I will be a CS master of [Tongji University](https://en.tongji.edu.cn/p/#/) this year.
+Hi! I’m a fourth-year DS undergrad at [NUIST](https://en.nuist.edu.cn/main.htm). And I will be a CS master of [Tongji University](https://en.tongji.edu.cn/p/#/) this year.
 
 My research interests mainly focus on deap learning and computer vision. I am always open to new topics.
 
