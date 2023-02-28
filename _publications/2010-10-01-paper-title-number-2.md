@@ -6,6 +6,7 @@ excerpt: 'This my first publication.'
 date: 2022-05-18
 venue: 'Applied Sciences-Basel'
 paperurl: 'http://yuqi-miao.github.io/files/p1.pdf'
+authors: 'Yuqi Miao, et al. (first author).<i>Applied Sciences-Basel</i>.2022.05'
 
 ---
 This my first publication.
