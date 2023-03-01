@@ -6,13 +6,13 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Yuqi Miao"
+title                    : "Huaxiang Yin"
 title_separator          : "-"
-name                     : &name "Yuqi Miao/缪宇琪"
+name                     : &name "Huaxiang Yin/殷化翔"
 description              : &description "Undergraduate Student"
-url                      : https://yuqi-miao.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://huaxiang-yin.github.io/shiran # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Yuqi-Miao/yuqi-miao.github.io"
+repository               : "Huaxiang Yin/huaxiang-yin.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -30,7 +30,7 @@ comments:
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
 staticman:
-  allowedFields          : ['Yuqi Miao', 'yuqimiao.cv@gmail.com', 'yuqi-miao.github.io', 'message']
+  allowedFields          : ['Huaxiang Yin', 'shirandexiaowo@gmail.com', 'huaxiang-yin.github.io/shiran', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
   commitMessage          : "New comment."
   filename               : comment-{@timestamp}
@@ -79,14 +79,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yuqi Miao"
+  name             : "Huaxiang Yin"
   avatar           : "profile.png"
-  bio              : "Incoming CS master at Tongji university"
+  bio              : "Incoming GIS master at Beijing normal university"
   location         : "NanJing,China "
-  employer         :
+  employer         : "Student"
 # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-# googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : "yuqimiao.cv@gmail.com"
+  googlescholar    : "https://scholar.google.com/citations?user=W0LOEYQAAAAJ&hl=zh-CN"
+  email            : "yinhuaxiang@nuist.edu.cn"
 # researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -95,7 +95,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "yuqi-miao"
+  github           : "huaxiang-yin"
   google_plus      :
   keybase          :
   instagram        :
