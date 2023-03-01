@@ -12,7 +12,7 @@ Hi! I’m a fourth-year GIS undergrad at [NUIST](https://en.nuist.edu.cn/main.ht
 
 My research interests mainly focus on deep learning and computer vision. I am always open to new topics.
 
-Here is my [Curriculum Vitae](http://yuqi-miao.github.io/files/CN-CV.pdf) in Chinese.
+Here is my [Curriculum Vitae](http://huaxiang-yin.github.io/.github.io/files/CN-CV.pdf) in Chinese.
 
 <!--哈哈我是注释，不会在浏览器中显示。
 A data-driven personal website
